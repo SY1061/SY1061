@@ -1,3 +1,4 @@
+안녕.
 - 👋 Hi, I’m @SY1061
 - 👀 I’m interested in reading
 - 🌱 I’m currently learning Java and Python.
