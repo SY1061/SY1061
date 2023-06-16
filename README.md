@@ -1,4 +1,6 @@
 안녕.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SY1061&show_icons=true&theme=radical)
 - 👋 Hi, I’m @SY1061
 - 👀 I’m interested in reading
 - 🌱 I’m currently learning Java and Python.
